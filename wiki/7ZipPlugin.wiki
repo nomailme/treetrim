@@ -8,7 +8,7 @@ This plugin compresses the input into 7zip format.
 = Details =
 == Command line = 7zip ==
 === Example ===
-TreeTrim.Console c:\mytree -z7ip:password:abc123+WriteTo:"c:\output.7z"
+{{{ TreeTrim.Console c:\mytree -z7ip:password:abc123+WriteTo:"c:\output.7z" }}}
   * *!WriteTo* if present, the resulting file will be written here.  If not specified, then then the WriteTo field in the static settings file will be used.  If this isn't present, then a temporary location will be used.
   * *Password* if present, the resulting file will be password protected.  If not specified, then then the Password field in the static settings file will be used.  If this isn't present, then no password will be used.
 
