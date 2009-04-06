@@ -1,4 +1,4 @@
-#summary The {7Zip} plugin
+#summary The 7Zip plugin
 #labels 7zip,plugin
 
 = Introduction =
@@ -7,9 +7,11 @@ This plugin compresses the input into 7zip format.
 
 = Details =
 == Command line = 7zip ==
-  * *WriteTo* if present, the resulting file will be written here.  If not specified, then then the WriteTo field in the static settings file will be used.  If this isn't present, then a temporary location will be used.
+=== Example ===
+TreeTrim.Console c:\mytree -z7ip:password:abc123+WriteTo:"c:\output.7z"
+  * *!WriteTo* if present, the resulting file will be written here.  If not specified, then then the WriteTo field in the static settings file will be used.  If this isn't present, then a temporary location will be used.
   * *Password* if present, the resulting file will be password protected.  If not specified, then then the Password field in the static settings file will be used.  If this isn't present, then no password will be used.
 
 == Settings file ==
 
-  * *PathTo6ZipBinary* This mandatory field points to the 7z.dll file on the machine.  This must be the platform specific (x86/x64) DLL in your installation of 7zip.
+  * *!PathTo6ZipBinary* This mandatory field points to the 7z.dll file on the machine.  This must be the platform specific (x86/x64) DLL in your installation of 7zip.
