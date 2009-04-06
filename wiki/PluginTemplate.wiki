@@ -1,0 +1,10 @@
+#summary The {PLUGIN_NAME} plugin
+
+= Introduction =
+
+The {PLUGIN_NAME} plugin HAS_THIS_FUNCTIONALITY...
+
+= Details =
+
+== Command line parameters ==
+  PARAM_NAME Description.  Mandatory.  Defaults to XXX in the settings, if any.
