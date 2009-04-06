@@ -14,4 +14,4 @@ This plugin compresses the input into 7zip format.
 
 == Settings file ==
 
-  * *!PathTo6ZipBinary* This mandatory field points to the 7z.dll file on the machine.  This must be the platform specific (x86/x64) DLL in your installation of 7zip.
+  * *!PathTo7ZipBinary* This mandatory field points to the 7z.dll file on the machine.  This must be the platform specific (x86/x64) DLL in your installation of 7zip.
