@@ -4,9 +4,9 @@
 
 This plugin emails the input.
 
-= Details =
-== Command line = email ==
-=== Examples ===
+----
+= Command line=
+== Examples ==
 {{{ TreeTrim.Console c:\mytree -zip -email }}}
 
 Zips the directory and then emails it.  All settings are taken from the associated settings XML file.
@@ -18,7 +18,8 @@ Emails the files in the directory.  The timeout is set high as there may be many
 {{{ TreeTrim.Console c:\mytree -zip -email:additionalAttachments:"c:\copyright.txt;c:\disclaimer.txt"+recipients:person1@whatever.com,person2@whatever.com }}}
 
 As well as attaching the zipped file, it adds two additional attachments and specifies the recipients.
-=== Task parameters ===
+
+== Task parameters ==
   * *serverAddress* The address of the SMTP server to use
   * *userName* The user name to log into the SMTP server
   * *password* The password to log into the STMP server
@@ -31,7 +32,9 @@ As well as attaching the zipped file, it adds two additional attachments and spe
   * *dontAttachOutputOfPreviousTask* Don't attach what the previous task produced.
   * *additionalAttachments* A semi-colon separated list of paths to additional attachments, e.g. {{{ c:\file1.txt;c:\file2.txt }}}
 
-=== Settings file ===
+----
+== Settings file ==
+=== Example ===
 {{{
 <?xml version="1.0" encoding="utf-8" ?>
 <Settings>
@@ -57,4 +60,6 @@ As well as attaching the zipped file, it adds two additional attachments and spe
 </Settings>
 }}}
 
+== Fields ==
 All nodes are optional as they can be specified in the task's paramters from the command line.
+----
