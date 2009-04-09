@@ -44,6 +44,7 @@ As well as attaching the zipped file, it adds two additional attachments and spe
     <Body>Cleaned and zipped using Steve Dunn's Tree Trim utility.</Body>
     <Smtp>
         <ServerAddress>mail.yourserver.com</ServerAddress>
+        <TimeoutInSeconds>120</TimeoutInSeconds>
         <Credentials>
             <Username>the-user</Username>
             <Password>abc123</Password>
