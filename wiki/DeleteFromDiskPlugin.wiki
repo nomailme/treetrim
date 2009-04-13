@@ -4,6 +4,8 @@
 
 This plugin deletes files or folders from the disk.  Files and folders matching the patterns in the settings file will be deleted.
 
+*If you have any suggestions for what files or folders this plugin should recognise and delete, please visit [http://groups.google.com/group/treetrim/t/f095b73a667834 this page].*
+
 ----
 = Command line =
 == Examples ==
