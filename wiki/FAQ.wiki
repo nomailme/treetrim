@@ -13,7 +13,7 @@ You can either run it from the command line or from Windows Explorer.  The setup
 You can either run it from Windows Explorer or from the command line.  The command line is useful for automated environments, such as Continuous Integration environments (Cruise Control/Team City etc.)
 
 = What's included with the tool? =
-The tool has two applications - the command line app and the GUI app.  It also has a bunch of plugins that do the actual work.  When using Explorer's context menu commands, the GUI is used.  The GUI currently just runs the commands specified on the command line and displays information if any errors occured.  The command line output any information to the console.
+The tool has two applications - the command line app and the GUI app.  It also has a bunch of plugins that do the actual work.  When using Explorer's context menu commands, the GUI is used.  The GUI currently just runs the commands specified on the command line and displays information if any errors occured.  The console application simply outputs any information to the console - which is good, as it won't bring everything to a halt if it's used in a CI environment.
 
 = How does it work =
 The tool works from command line parameters passed to either the gui or the console app.  The command line states what actions are to be performed on the tree and any parameters for the actions.  For instance, this simply deletes debug files and folders and any temporary files.
@@ -66,4 +66,3 @@ The email plugin will use the parameters if they're passed on the command line. 
 
 = How do I write my own plugin? =
 Reference {{{Dunn.TreeTrim.dll}}} and create a class derived from the {{{IPlugin}}} interface.  Look at the plugins in the source for more information.  Also take a look the CreatingPlugins page.  To have your plugin picked up by the tool, just plonk the DLL in the same directory as the exe.
-
