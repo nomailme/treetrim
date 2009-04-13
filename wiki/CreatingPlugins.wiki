@@ -2,4 +2,4 @@
 
 = Introduction =
 
-* Coming soon.  Whilst your waiting, feel free to take a look at the plugins in the source.  Just derive from IPlugin and add the MEF attribute so the tool picks it up. *
+* Coming soon.  Whilst you're waiting, feel free to take a look at the plugins in the source.  Just derive from IPlugin and add the MEF attribute so the tool picks it up. *
