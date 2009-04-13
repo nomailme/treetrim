@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    
+    <!-- 
+        KEEP THE CONTENTS OF THE NODES BELOW ON THE SAME LINE AS THE NODE.
+        ANY WHITE SPACE WILL BUGGER UP THE EXPRESSIONS.
+    -->
+
+    <FilePattern>\.scc$|\.vssscc$|\.user$|\.vspscc$|\.suo$|stylecop\.cache$</FilePattern>
+
+    <FolderPattern>^bin$|^obj$|^Debug$|^Release$|^_ReSharper\..*$|^_sgbak$</FolderPattern>
+
+</Settings>

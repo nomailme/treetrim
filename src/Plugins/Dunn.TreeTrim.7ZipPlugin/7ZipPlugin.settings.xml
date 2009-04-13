@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <!-- 
+        KEEP THE CONTENTS OF THE NODE BELOW ON THE SAME LINE AS THE NODE.
+        ANY WHITE SPACE WILL BUGGER UP THE EXPRESSIONS.
+    -->
+    <!--<Password>abc123</Password>-->
+    <WriteTo>c:\temp\whatever.7z</WriteTo>
+    <PathTo7ZipBinary>C:\Program Files\7-Zip\7z.dll</PathTo7ZipBinary>
+</Settings>
