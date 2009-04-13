@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Settings>
     <Sender>
-        <DisplayName>Steve Dunn</DisplayName>
-        <EmailAddress>steve@dunnhq.com</EmailAddress>
+        <DisplayName>Your Name</DisplayName>
+        <EmailAddress>you@yours.com</EmailAddress>
     </Sender>
     <Subject>Source is attached.</Subject>
     <Recipients>
-        <Recipient>steve@dunnhq.com</Recipient>
+        <Recipient>wilma@somewhere.com</Recipient>
     </Recipients>
     <Body>Cleaned and zipped using Steve Dunn's Tree Trim utility.</Body>
     <Smtp>
