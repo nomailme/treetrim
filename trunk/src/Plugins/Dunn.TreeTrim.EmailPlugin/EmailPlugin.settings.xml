@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+    <Sender>
+        <DisplayName>Steve Dunn</DisplayName>
+        <EmailAddress>steve@dunnhq.com</EmailAddress>
+    </Sender>
+    <Subject>Source is attached.</Subject>
+    <Recipients>
+        <Recipient>steve@dunnhq.com</Recipient>
+    </Recipients>
+    <Body>Cleaned and zipped using Steve Dunn's Tree Trim utility.</Body>
+    <Smtp>
+        <ServerAddress>mail.yourhost.co.uk</ServerAddress>
+        <TimeoutInSeconds>120</TimeoutInSeconds>
+        <Credentials>
+            <Username>admin</Username>
+            <Password>password123</Password>
+        </Credentials>
+    </Smtp>
+    <AdditionalAttachments>
+        <Attachment>c:\temp\copyright.txt</Attachment>
+        <Attachment>c:\temp\disclaimer.txt</Attachment>
+    </AdditionalAttachments>
+</Settings>

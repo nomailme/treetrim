@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Settings">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="Sender" minOccurs="0" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element name="DisplayName" type="xs:string" />
+                            <xs:element name="EmailAddress" type="xs:string" />
+                        </xs:all>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Recipients" minOccurs="0" maxOccurs="1" >
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element maxOccurs="unbounded" minOccurs="1" name="Recipient" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Subject" type="xs:string" minOccurs="0" maxOccurs="1" />
+                <xs:element name="Body" type="xs:string"  minOccurs="0" maxOccurs="1"/>
+                <xs:element name="Smtp" minOccurs="0" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element name="ServerAddress" type="xs:string" minOccurs="0" maxOccurs="1" />
+                            <xs:element name="TimeoutInSeconds" type="xs:int" minOccurs="0" maxOccurs="1" />
+                            <xs:element name="Credentials" minOccurs="0" maxOccurs="1">
+                                <xs:complexType>
+                                    <xs:all>
+                                        <xs:element name="Username" type="xs:string" minOccurs="1" maxOccurs="1" />
+                                        <xs:element name="Password" type="xs:string" minOccurs="1" maxOccurs="1" />
+                                    </xs:all>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:all>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="AdditionalAttachments">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element maxOccurs="unbounded" name="Attachment" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
