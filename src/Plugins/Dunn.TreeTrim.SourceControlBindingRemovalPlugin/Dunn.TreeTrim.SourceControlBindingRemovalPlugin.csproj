@@ -73,6 +73,6 @@
   </Target>
   -->
   <PropertyGroup>
-    <PostBuildEvent>XCOPY /D /Y /R /I "$(TargetDir)*.*" $(SolutionDir)\src\bin\debug</PostBuildEvent>
+    <PostBuildEvent>XCOPY /D /Y /R /I  "$(TargetDir)*.*" $(SolutionDir)bin\debug</PostBuildEvent>
   </PropertyGroup>
 </Project>
