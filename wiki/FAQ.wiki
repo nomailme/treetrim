@@ -1,4 +1,5 @@
 #summary The Tree Trim FAQ
+#labels Featured
 
 = What is Tree Trim? =
 Tree Trim is a tool that trims directories containing source code (source trees).  When working in source trees, tools often generate files and folders that are not neccessary when you just want the source.
