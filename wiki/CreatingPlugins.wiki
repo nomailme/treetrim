@@ -1,12 +1,12 @@
-#summary Creating Plugins for TreeTrim
+#summary Creating Plugins for Tree Trim
 #labels Featured,Phase-Implementation
 
 = Introduction =
 
-Creating a plugin for TreeTrim is fairly easy.  There are just a couple of things to remember:
+Creating a plugin for Tree Trim is fairly easy.  There are just a couple of things to remember:
 
  * Create a class and derive from IPlugin.
- * Put the assembly containing your plugin into the same directory as TreeTrim
+ * Put the assembly containing your plugin into the same directory as Tree Trim
 
 ==Deriving from IPlugin==
 `IPlugin` is quite a simple interface:
@@ -49,9 +49,9 @@ Creating a plugin for TreeTrim is fairly easy.  There are just a couple of thing
     }
 }}}
 
-Here I'll show how to create a plugin that opens up an Explorer window to show the output of the previous plugin.  This is useful for when TreeTrim is run from Explorer's context menus.
+Here I'll show how to create a plugin that opens up an Explorer window to show the output of the previous plugin.  This is useful for when Tree Trim is run from Explorer's context menus.
 
-First, create a Visual Studio Class Library project and reference `Dunn.TreeTrim` and `System.ComponentModel.Composition` (both in the `lib` folder in the TreeTrim source or with the executables in the TreeTrim binary downloads).
+First, create a Visual Studio Class Library project and reference `Dunn.TreeTrim` and `System.ComponentModel.Composition` (both in the `lib` folder in the Tree Trim source or with the executables in the Tree Trim binary downloads).
 
 Now, create a class called `MyPlugin` and derive from the `IPlugin` interface declared in the namespace `Dunn.TreeTrim`.
 {{{
@@ -60,7 +60,7 @@ public class Plugin : IPlugin
 {
 }
 }}}
-Notice the attribute?  That's a [http://www.codeplex.com/MEF MEF (Managed Extensibility Framework)] attribute.  This tells TreeTrim that this assembly exports types that implement `IPlugin`.  This attribute is declared in the `System.ComponentModel.Composition` assembly that you referenced earlier.
+Notice the attribute?  That's a [http://www.codeplex.com/MEF MEF (Managed Extensibility Framework)] attribute.  This tells Tree Trim that this assembly exports types that implement `IPlugin`.  This attribute is declared in the `System.ComponentModel.Composition` assembly that you referenced earlier.
 
 Fill in this newly created class with the methods declared in the `IPlugin` interface.  Implement the following:
 {{{
@@ -82,7 +82,7 @@ public void Run(IPluginRuntimeSettings settings, IPlugin lastPlugin)
 }
 }}}
 
-This is the main method that TreeTrim calls to run your plugin.  For this simple plugin, we're just going to start up Explorer.exe and give it a command line parameter to select a file.  The file we're going to show is the _output from the last plugin that was run_ - so if the last plugin zipped up a folder, it'll be a zip file - or if the last plugin's output was a folder, it'll be a folder.  Notice that we store the path in a field named `_workingPath`.  You'll see why in the next bit...
+This is the main method that Tree Trim calls to run your plugin.  For this simple plugin, we're just going to start up Explorer.exe and give it a command line parameter to select a file.  The file we're going to show is the _output from the last plugin that was run_ - so if the last plugin zipped up a folder, it'll be a zip file - or if the last plugin's output was a folder, it'll be a folder.  Notice that we store the path in a field named `_workingPath`.  You'll see why in the next bit...
 
 {{{
 public string WorkingPath
@@ -100,6 +100,6 @@ public void Cleanup()
 This method gives your plugin a chance to clean up after itself.  For this simple plugin, we don't have much to clear up.  But if we did more, for instance created some temporary files, we'd want to clear them up here.
 
 ===Deploy it!===
-That's it!  Build your assembly and put it in the same folder as TreeTrim.
+That's it!  Build your assembly and put it in the same folder as Tree Trim.
 
-Run TreeTrim and specify your new plugin: `TreeTrim.gui.exe c:\my_tree -myPlugin`.
+Run Tree Trim and specify your new plugin: `TreeTrim.gui.exe c:\my_tree -myPlugin`.
