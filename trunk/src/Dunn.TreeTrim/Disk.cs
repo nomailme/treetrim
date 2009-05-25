@@ -6,7 +6,7 @@ using System.Reflection ;
 
 namespace Dunn.TreeTrim
 {
-    /// <summary>
+	/// <summary>
     /// Represents a disk.  A facade over the Path and File API's.
     /// </summary>
     public class Disk : IDisk

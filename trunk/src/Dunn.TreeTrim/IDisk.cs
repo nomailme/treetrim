@@ -1,8 +1,9 @@
 using System.Collections.Generic ;
+using System.Diagnostics ;
 
 namespace Dunn.TreeTrim
 {
-    /// <summary>
+	/// <summary>
     /// Represents an iterface to the disk.  This is here
     /// to enable unit testing of the plugins.
     /// </summary>
