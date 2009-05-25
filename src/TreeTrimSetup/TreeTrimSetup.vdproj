@@ -45,6 +45,42 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_46A94773121DA215CD04357088B85C2F"
+        "OwnerKey" = "8:_16F97DA05D1C49E9A2A3260E13AE5862"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46A94773121DA215CD04357088B85C2F"
+        "OwnerKey" = "8:_A61C27B6EAB1407B944F953E8356084A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46A94773121DA215CD04357088B85C2F"
+        "OwnerKey" = "8:_51409BF559404274A686BEDDEC026986"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46A94773121DA215CD04357088B85C2F"
+        "OwnerKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46A94773121DA215CD04357088B85C2F"
+        "OwnerKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46A94773121DA215CD04357088B85C2F"
+        "OwnerKey" = "8:_9E89864A530C178568CD283342BB4667"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_4E2B13BBF5C247F2B82585CE0715F3A3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -87,6 +123,96 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_994E26AE19EA45C0645348C85F97D154"
+        "OwnerKey" = "8:_B6961B1B8E2647DBA3DE19A74ABE99E0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9E89864A530C178568CD283342BB4667"
+        "OwnerKey" = "8:_16F97DA05D1C49E9A2A3260E13AE5862"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9E89864A530C178568CD283342BB4667"
+        "OwnerKey" = "8:_9419FC6E75B84BC4AC8E2C85F748E587"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9E89864A530C178568CD283342BB4667"
+        "OwnerKey" = "8:_4E2B13BBF5C247F2B82585CE0715F3A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9E89864A530C178568CD283342BB4667"
+        "OwnerKey" = "8:_42FB8B7D4378490EA94CE157E121E4A8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9E89864A530C178568CD283342BB4667"
+        "OwnerKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "OwnerKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "OwnerKey" = "8:_FC466B72D5A640E29875CAAB3725AB5D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "OwnerKey" = "8:_9419FC6E75B84BC4AC8E2C85F748E587"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "OwnerKey" = "8:_765EE8098F3F46268CDFBFFCEA8BCA4B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "OwnerKey" = "8:_7577911AC8AC4CF99D5CC1DCD8882E67"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "OwnerKey" = "8:_5A6C4059C5CF47F38C144E6E39E175FA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "OwnerKey" = "8:_4E2B13BBF5C247F2B82585CE0715F3A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "OwnerKey" = "8:_42FB8B7D4378490EA94CE157E121E4A8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "OwnerKey" = "8:_16F97DA05D1C49E9A2A3260E13AE5862"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_A61C27B6EAB1407B944F953E8356084A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -105,6 +231,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_C197E46B3751774FBA8F45F293E62286"
+        "OwnerKey" = "8:_5A6C4059C5CF47F38C144E6E39E175FA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_C42C39A530564270856342F0E4153F4A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -117,8 +249,188 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "OwnerKey" = "8:_16F97DA05D1C49E9A2A3260E13AE5862"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "OwnerKey" = "8:_FC466B72D5A640E29875CAAB3725AB5D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "OwnerKey" = "8:_A61C27B6EAB1407B944F953E8356084A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "OwnerKey" = "8:_9419FC6E75B84BC4AC8E2C85F748E587"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "OwnerKey" = "8:_765EE8098F3F46268CDFBFFCEA8BCA4B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "OwnerKey" = "8:_7577911AC8AC4CF99D5CC1DCD8882E67"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "OwnerKey" = "8:_5A6C4059C5CF47F38C144E6E39E175FA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "OwnerKey" = "8:_51409BF559404274A686BEDDEC026986"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "OwnerKey" = "8:_4E2B13BBF5C247F2B82585CE0715F3A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "OwnerKey" = "8:_42FB8B7D4378490EA94CE157E121E4A8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FA8874AC3FED270524448DD63E3FB16F"
+        "OwnerKey" = "8:_4E2B13BBF5C247F2B82585CE0715F3A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FC466B72D5A640E29875CAAB3725AB5D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_FF887A79796D40E3AEBF7083B059FB26"
         "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_46A94773121DA215CD04357088B85C2F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_FC466B72D5A640E29875CAAB3725AB5D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_B6961B1B8E2647DBA3DE19A74ABE99E0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_994E26AE19EA45C0645348C85F97D154"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_A61C27B6EAB1407B944F953E8356084A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9419FC6E75B84BC4AC8E2C85F748E587"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_765EE8098F3F46268CDFBFFCEA8BCA4B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_7577911AC8AC4CF99D5CC1DCD8882E67"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_5A6C4059C5CF47F38C144E6E39E175FA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_C197E46B3751774FBA8F45F293E62286"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_51409BF559404274A686BEDDEC026986"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_4E2B13BBF5C247F2B82585CE0715F3A3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_FA8874AC3FED270524448DD63E3FB16F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_42FB8B7D4378490EA94CE157E121E4A8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_16F97DA05D1C49E9A2A3260E13AE5862"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_DCACA2C8C868A77B41AB568AD72C5B73"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9E89864A530C178568CD283342BB4667"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -293,6 +605,11 @@
             "AssemblyAsmDisplayName" = "8:Dunn.TreeTrim.EmailPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_16F97DA05D1C49E9A2A3260E13AE5862"
+                    {
+                    "Name" = "8:Dunn.TreeTrim.EmailPlugin.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:..\\Bin\\Debug\\Dunn.TreeTrim.EmailPlugin.dll"
             "TargetName" = "8:"
@@ -319,6 +636,11 @@
             "AssemblyAsmDisplayName" = "8:Dunn.TreeTrim.DeleteFromDiskPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_42FB8B7D4378490EA94CE157E121E4A8"
+                    {
+                    "Name" = "8:Dunn.TreeTrim.DeleteFromDiskPlugin.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:..\\Bin\\Debug\\Dunn.TreeTrim.DeleteFromDiskPlugin.dll"
             "TargetName" = "8:"
@@ -338,6 +660,37 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_46A94773121DA215CD04357088B85C2F"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
+            "AssemblyAsmDisplayName" = "8:System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_46A94773121DA215CD04357088B85C2F"
+                    {
+                    "Name" = "8:System.Core.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Core.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B15B6AD092F642E1B55053371171E1A9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4E2B13BBF5C247F2B82585CE0715F3A3"
             {
             "AssemblyRegister" = "3:1"
@@ -345,6 +698,11 @@
             "AssemblyAsmDisplayName" = "8:Dunn.TreeTrim.7ZipPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_4E2B13BBF5C247F2B82585CE0715F3A3"
+                    {
+                    "Name" = "8:Dunn.TreeTrim.7ZipPlugin.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:..\\Bin\\Debug\\Dunn.TreeTrim.7ZipPlugin.dll"
             "TargetName" = "8:"
@@ -371,6 +729,11 @@
             "AssemblyAsmDisplayName" = "8:TreeTrim.Console, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_51409BF559404274A686BEDDEC026986"
+                    {
+                    "Name" = "8:TreeTrim.Console.exe"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:..\\Bin\\Debug\\TreeTrim.Console.exe"
             "TargetName" = "8:"
@@ -397,6 +760,11 @@
             "AssemblyAsmDisplayName" = "8:Dunn.TreeTrim.ZipPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_5A6C4059C5CF47F38C144E6E39E175FA"
+                    {
+                    "Name" = "8:Dunn.TreeTrim.ZipPlugin.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:..\\Bin\\Debug\\Dunn.TreeTrim.ZipPlugin.dll"
             "TargetName" = "8:"
@@ -443,6 +811,11 @@
             "AssemblyAsmDisplayName" = "8:Dunn.TreeTrim.SubversionRemovalPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_7577911AC8AC4CF99D5CC1DCD8882E67"
+                    {
+                    "Name" = "8:Dunn.TreeTrim.SubversionRemovalPlugin.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:..\\Bin\\Debug\\Dunn.TreeTrim.SubversionRemovalPlugin.dll"
             "TargetName" = "8:"
@@ -469,6 +842,11 @@
             "AssemblyAsmDisplayName" = "8:Dunn.TreeTrim.WorkingCopyPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_765EE8098F3F46268CDFBFFCEA8BCA4B"
+                    {
+                    "Name" = "8:Dunn.TreeTrim.WorkingCopyPlugin.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:..\\Bin\\Debug\\Dunn.TreeTrim.WorkingCopyPlugin.dll"
             "TargetName" = "8:"
@@ -495,6 +873,11 @@
             "AssemblyAsmDisplayName" = "8:Dunn.TreeTrim.SourceControlBindingRemovalPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_9419FC6E75B84BC4AC8E2C85F748E587"
+                    {
+                    "Name" = "8:Dunn.TreeTrim.SourceControlBindingRemovalPlugin.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:..\\Bin\\Debug\\Dunn.TreeTrim.SourceControlBindingRemovalPlugin.dll"
             "TargetName" = "8:"
@@ -514,6 +897,99 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_994E26AE19EA45C0645348C85F97D154"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Practices.ObjectBuilder2, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_994E26AE19EA45C0645348C85F97D154"
+                    {
+                    "Name" = "8:Microsoft.Practices.ObjectBuilder2.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Practices.ObjectBuilder2.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B15B6AD092F642E1B55053371171E1A9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9E89864A530C178568CD283342BB4667"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
+            "AssemblyAsmDisplayName" = "8:System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_9E89864A530C178568CD283342BB4667"
+                    {
+                    "Name" = "8:System.Xml.Linq.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Xml.Linq.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B15B6AD092F642E1B55053371171E1A9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9EF87D7B1919EAF4ADFF941B8E3B9602"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.ComponentModel.Composition, Version=2009.1.23.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_9EF87D7B1919EAF4ADFF941B8E3B9602"
+                    {
+                    "Name" = "8:System.ComponentModel.Composition.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.ComponentModel.Composition.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B15B6AD092F642E1B55053371171E1A9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A61C27B6EAB1407B944F953E8356084A"
             {
             "AssemblyRegister" = "3:1"
@@ -521,6 +997,11 @@
             "AssemblyAsmDisplayName" = "8:TreeTrim.Gui, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_A61C27B6EAB1407B944F953E8356084A"
+                    {
+                    "Name" = "8:TreeTrim.Gui.exe"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:..\\Bin\\Debug\\TreeTrim.Gui.exe"
             "TargetName" = "8:"
@@ -567,6 +1048,11 @@
             "AssemblyAsmDisplayName" = "8:Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_B6961B1B8E2647DBA3DE19A74ABE99E0"
+                    {
+                    "Name" = "8:Microsoft.Practices.Unity.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:..\\Bin\\Debug\\Microsoft.Practices.Unity.dll"
             "TargetName" = "8:"
@@ -584,6 +1070,37 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C197E46B3751774FBA8F45F293E62286"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ICSharpCode.SharpZipLib, Version=0.81.0.1407, Culture=neutral, PublicKeyToken=1b03e6acf1164f73"
+                "ScatterAssemblies"
+                {
+                    "_C197E46B3751774FBA8F45F293E62286"
+                    {
+                    "Name" = "8:ICSharpCode.SharpZipLib.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:ICSharpCode.SharpZipLib.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B15B6AD092F642E1B55053371171E1A9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C42C39A530564270856342F0E4153F4A"
@@ -610,6 +1127,99 @@
             {
             "SourcePath" = "8:..\\Bin\\Debug\\SourceControlBindingRemovalPlugin.settings.xml"
             "TargetName" = "8:SourceControlBindingRemovalPlugin.settings.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_B15B6AD092F642E1B55053371171E1A9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DCACA2C8C868A77B41AB568AD72C5B73"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Dunn.TreeTrim, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_DCACA2C8C868A77B41AB568AD72C5B73"
+                    {
+                    "Name" = "8:Dunn.TreeTrim.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Dunn.TreeTrim.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B15B6AD092F642E1B55053371171E1A9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FA8874AC3FED270524448DD63E3FB16F"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SevenZipSharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_FA8874AC3FED270524448DD63E3FB16F"
+                    {
+                    "Name" = "8:SevenZipSharp.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:SevenZipSharp.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B15B6AD092F642E1B55053371171E1A9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FC466B72D5A640E29875CAAB3725AB5D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Dunn.TreeTrim.ShowInExplorerPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_FC466B72D5A640E29875CAAB3725AB5D"
+                    {
+                    "Name" = "8:Dunn.TreeTrim.ShowInExplorerPlugin.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\bin\\debug\\Dunn.TreeTrim.ShowInExplorerPlugin.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B15B6AD092F642E1B55053371171E1A9"
             "Condition" = "8:"
@@ -702,14 +1312,14 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Tree Trim"
-        "ProductCode" = "8:{A56DE44E-4DF4-4121-8397-081FBD3A160B}"
-        "PackageCode" = "8:{F8FA183B-5DF5-43AB-ACFD-825E3BE81ACC}"
+        "ProductCode" = "8:{A29AD764-19F8-4359-978C-C9B27872CDE5}"
+        "PackageCode" = "8:{EA928753-FF33-4A83-8D09-080E7C88272A}"
         "UpgradeCode" = "8:{E8293FFB-1CCE-4FB7-81BF-950F17D7C13F}"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.0.1"
         "Manufacturer" = "8:Steve Dunn"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:http://code.google.com/p/treetrim/"
@@ -804,7 +1414,7 @@
                 {
                     "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_D4A772046A6D4C7F976D57619DCFD0C1"
                     {
-                    "Name" = "8:Folder"
+                    "Name" = "8:Directory"
                     "Condition" = "8:"
                     "AlwaysCreate" = "11:FALSE"
                     "DeleteAtUninstall" = "11:FALSE"
@@ -822,7 +1432,7 @@
                                 {
                                     "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_8576511380D64793A4107E5FD3288824"
                                     {
-                                    "Name" = "8:Clean source code"
+                                    "Name" = "8:Clean this source code"
                                     "Condition" = "8:"
                                     "AlwaysCreate" = "11:FALSE"
                                     "DeleteAtUninstall" = "11:FALSE"
@@ -848,6 +1458,78 @@
                                                     "Transitive" = "11:FALSE"
                                                     "ValueTypes" = "3:1"
                                                     "Value" = "8:\"[TARGETDIR]TreeTrim.Gui.exe\" \"%1\" -deleteFromDisk"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                        "Values"
+                                        {
+                                        }
+                                    }
+                                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_9803DCD3AE3D4E239998ABE4ACB32F7F"
+                                    {
+                                    "Name" = "8:Clean and zip this source code"
+                                    "Condition" = "8:"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "DeleteAtUninstall" = "11:FALSE"
+                                    "Transitive" = "11:FALSE"
+                                        "Keys"
+                                        {
+                                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_B2EA57E5ECE04425AE99E8E7DCC9E4BB"
+                                            {
+                                            "Name" = "8:command"
+                                            "Condition" = "8:"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "DeleteAtUninstall" = "11:FALSE"
+                                            "Transitive" = "11:FALSE"
+                                                "Keys"
+                                                {
+                                                }
+                                                "Values"
+                                                {
+                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_A4670E1566264633B96B9A6AB84DBE40"
+                                                    {
+                                                    "Name" = "8:"
+                                                    "Condition" = "8:"
+                                                    "Transitive" = "11:FALSE"
+                                                    "ValueTypes" = "3:1"
+                                                    "Value" = "8:\"[TARGETDIR]TreeTrim.Gui.exe\" \"%1\"  -deleteFromDisk -zip:dontCleanUp -showInExplorer"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                        "Values"
+                                        {
+                                        }
+                                    }
+                                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_9CDA671B5F4440C4B3BA764F8C2CDE80"
+                                    {
+                                    "Name" = "8:Clean and zip a working copy of the source code"
+                                    "Condition" = "8:"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "DeleteAtUninstall" = "11:FALSE"
+                                    "Transitive" = "11:FALSE"
+                                        "Keys"
+                                        {
+                                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_87A2BA75847D4E4CB96365EB04DC8200"
+                                            {
+                                            "Name" = "8:command"
+                                            "Condition" = "8:"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "DeleteAtUninstall" = "11:FALSE"
+                                            "Transitive" = "11:FALSE"
+                                                "Keys"
+                                                {
+                                                }
+                                                "Values"
+                                                {
+                                                    "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_DCCE78AE59124AD995C54E77FEBE6EB2"
+                                                    {
+                                                    "Name" = "8:"
+                                                    "Condition" = "8:"
+                                                    "Transitive" = "11:FALSE"
+                                                    "ValueTypes" = "3:1"
+                                                    "Value" = "8:\"[TARGETDIR]TreeTrim.Gui.exe\" \"%1\" -workingCopy -deleteFromDisk -zip:dontCleanUp -showInExplorer"
                                                     }
                                                 }
                                             }

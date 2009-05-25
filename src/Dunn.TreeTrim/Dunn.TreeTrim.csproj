@@ -56,6 +56,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IProcessFacade.cs" />
+    <Compile Include="ProcessFacade.cs" />
     <Compile Include="SettingsHelper.cs" />
     <Compile Include="Trimmer.cs" />
     <Compile Include="DiscoverPluginsInAssemblyDirectory.cs" />
@@ -82,6 +84,6 @@
   </Target>
   -->
   <PropertyGroup>
-    <PostBuildEvent>XCOPY /D /Y /R /I  "$(TargetDir)*.*" $(SolutionDir)\src\bin\debug</PostBuildEvent>
+    <PostBuildEvent>XCOPY /D /Y /R /I  "$(TargetDir)*.*" $(SolutionDir)bin\debug</PostBuildEvent>
   </PropertyGroup>
 </Project>

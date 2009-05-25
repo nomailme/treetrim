@@ -1,20 +1,18 @@
-﻿using System ;
-using System.Reflection;
+﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Dunn.TreeTrim")]
+[assembly: AssemblyTitle("Dunn.TreeTrim.ShowInExplorerPlugin")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Steve Dunn")]
-[assembly: AssemblyProduct("Dunn.TreeTrim")]
-[assembly: AssemblyCopyright("Copyright © Steve Dunn 2009")]
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyProduct("Dunn.TreeTrim.ShowInExplorerPlugin")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2009")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: CLSCompliant(true)]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
@@ -22,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("41c43ffe-7367-4da1-9eeb-0ac847c981cb")]
+[assembly: Guid("d36e8f8b-3adc-422e-aa39-53d1e4d56eb4")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -34,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.1")]
-[assembly: AssemblyFileVersion("1.0.1")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]

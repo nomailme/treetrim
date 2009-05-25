@@ -90,7 +90,7 @@ namespace Dunn.TreeTrim
                     throw new InvalidOperationException(
                         string.Format(
                             CultureInfo.CurrentCulture,
-                            @"Cannot find the plugin that associated with '{0}'.", 
+                            @"Cannot find the plugin associated with '{0}'.", 
                             moniker ) ) ;
                 }
 
