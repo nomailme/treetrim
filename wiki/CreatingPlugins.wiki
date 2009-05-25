@@ -99,7 +99,7 @@ public void Cleanup()
 }}}
 This method gives your plugin a chance to clean up after itself.  For this simple plugin, we don't have much to clear up.  But if we did more, for instance created some temporary files, we'd want to clear them up here.
 
-===h3===
+===Deploy it!===
 That's it!  Build your assembly and put it in the same folder as TreeTrim.
 
 Run TreeTrim and specify your new plugin: `TreeTrim.gui.exe c:\my_tree -myPlugin`.
