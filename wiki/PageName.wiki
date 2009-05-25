@@ -5,8 +5,8 @@
 
 We'd be very happy and accept contributions and ideas from others.  There's two ways of contributing: contributing a Patch, or joining the project.
 
- * Contributing a Patch
+==Contributing a Patch==
 If you come across a bug which you'd like to fix and contribute back, this is the easiest and less involved way of contributing. [http://www.hanselman.com/blog/ExampleHowToContributeAPatchToAnOpenSourceProjectLikeDasBlog.aspx Scott Hanselman has a good overview of how to contribute using TortoiseSVN (our favorite SVN client)].
 
- * Joining the project
+==Joining the project==
 If you'd like to join the project, please drop us a line at the [http://groups.google.com/group/TreeTrim TreeTrim Discussions list].
