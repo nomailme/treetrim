@@ -51,8 +51,17 @@ Creating a plugin for TreeTrim is fairly easy.  There are just a couple of thing
 
 Here I'll show how to create a plugin that opens up an Explorer window to show the output of the previous plugin.  This is useful for when TreeTrim is run from Explorer's context menus.
 
-First, create a Visual Studio Class Library project and reference `Dunn.TreeTrim` and `System.ComponentModel.Composition` (both in the `lib` folder).
+First, create a Visual Studio Class Library project and reference `Dunn.TreeTrim` and `System.ComponentModel.Composition` (both in the `lib` folder in the TreeTrim source or with the executables in the TreeTrim binary downloads).
+
 Now, create a class called `MyPlugin` and derive from the `IPlugin` interface declared in the namespace `Dunn.TreeTrim`.
+{{{
+[Export(typeof(IPlugin))]
+public class Plugin : IPlugin
+{
+}
+}}}
+Notice the attribute?  That's a [http://www.codeplex.com/MEF MEF (Managed Extensibility Framework)] attribute.  This tells TreeTrim that this assembly exports types that implement `IPlugin`.  This attribute is declared in the `System.ComponentModel.Composition` assembly that you referenced earlier.
+
 Fill in this newly created class with the methods declared in the `IPlugin` interface.  Implement the following:
 {{{
 public string Moniker
@@ -60,7 +69,7 @@ public string Moniker
 	get { return @"myPlugin"; }
 }
 }}}
-This says that the plugin responds to 'myPlugin' from the command line (e.g. `treetrim.gui c:\mytree -myPlugin`)
+This says that the plugin responds to 'myPlugin' from the command line (e.g. `treetrim.gui.exe c:\mytree -myPlugin`)
 
 {{{
 public void Run(IPluginRuntimeSettings settings, IPlugin lastPlugin)
