@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{D60B3C37-B79E-4919-A190-3C3F9EFA2B3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specs", "Specs", "{F5C07F9F-44F2-44E8-B750-A652A6F020E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dunn.TreeTrim.7ZipPlugin", "Plugins\Dunn.TreeTrim.7ZipPlugin\Dunn.TreeTrim.7ZipPlugin.csproj", "{111BC3D4-51BC-4C53-B381-0B77FD15110D}"
 EndProject
@@ -42,8 +44,6 @@ Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TreeTrimSetup", "TreeTrimSe
 		{111BC3D4-51BC-4C53-B381-0B77FD15110D} = {111BC3D4-51BC-4C53-B381-0B77FD15110D}
 		{F2FCDBF4-9A67-4F59-9421-B9684D8F2DE8} = {F2FCDBF4-9A67-4F59-9421-B9684D8F2DE8}
 	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specs", "Specs", "{F5C07F9F-44F2-44E8-B750-A652A6F020E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dunn.TreeTrim.Specs", "Specs\Dunn.TreeTrim.Specs\Dunn.TreeTrim.Specs.csproj", "{A07F2630-7BC6-45A3-90E3-F7D1293E4A0A}"
 EndProject
