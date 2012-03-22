@@ -86,10 +86,20 @@ namespace Dunn.TreeTrim.SourceControlBindingRemovalPlugin
             //-- remove any GlobalSection(SourceCodeControl) block
             newFileContents = Regex.Replace(
                 newFileContents, "\\s+GlobalSection\\(SourceCodeControl\\)[\\w|\\W]+?EndGlobalSection", string.Empty);
+            
+            //-- remove TFS stuff
+            newFileContents = Regex.Replace(
+                newFileContents, "\\s+GlobalSection\\(TeamFoundationVersionControl\\)[\\w|\\W]+?EndGlobalSection", string.Empty);
 
             //-- remove any remaining lines that have keys beginning with 'Scc'
             newFileContents = Regex.Replace(
                 newFileContents, @"^\s+Scc.*[\n\r\f]",
+                string.Empty,
+                RegexOptions.Multiline);
+
+            //-- remove any remaining lines that have xml elements beginning with 'Scc'
+            newFileContents = Regex.Replace(
+                newFileContents, @"^\s+<Scc.*[\n\r\f]",
                 string.Empty,
                 RegexOptions.Multiline);
 
